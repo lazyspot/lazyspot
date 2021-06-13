@@ -1,6 +1,6 @@
 ### Hi there, I'm Marcin
 
-- :satellite: :I’m currently working on :globe_with_meridians: GIS systems using satelite data and in-sight.
+- :satellite: I’m currently working on :globe_with_meridians: GIS systems using satelite data and in-sight.
 - :radio: I'm amateur Ham Radio Operator.
 - :dancers: I’m looking to collaborate on Electronics project for amateur radio (Ham Radio).
 - :bookmark_tabs: In feature I want build own systems for checking algorithmic chalanges.
