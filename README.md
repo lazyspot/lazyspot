@@ -14,6 +14,10 @@
 
 ### Lastest YouTube Video
 <!-- YOUTUBE:START -->
+- [How to build GDAL from source for Visual C++ in Visual Studio](https://www.youtube.com/watch?v=Yf8rYOfvZjY)
+- [Configurate Telnet access to switch, router and 3rd layer switch - Cisco Packet Tracer](https://www.youtube.com/watch?v=yRslt72BmGw)
+- [Connect computer to server using CLI - Cisco Packet Tracer](https://www.youtube.com/watch?v=pdgs0A2-2zE)
+- [Connect computer to server using GUI - Cisco Packet Tracer](https://www.youtube.com/watch?v=O8qsG1hL4tM)
 <!-- YOUTUBE:END -->
 
 
