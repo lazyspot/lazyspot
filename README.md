@@ -12,6 +12,10 @@
 <br />
 <br />
 
+### Lastest Blog Posts:
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### Lastest YouTube Video
 <!-- YOUTUBE:START -->
 - [How to build GDAL from source for Visual C++ in Visual Studio](https://www.youtube.com/watch?v=Yf8rYOfvZjY)
@@ -19,7 +23,6 @@
 - [Connect computer to server using CLI - Cisco Packet Tracer](https://www.youtube.com/watch?v=pdgs0A2-2zE)
 - [Connect computer to server using GUI - Cisco Packet Tracer](https://www.youtube.com/watch?v=O8qsG1hL4tM)
 <!-- YOUTUBE:END -->
-
 
 <!--
 **lazyspot/lazyspot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
