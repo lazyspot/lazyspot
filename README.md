@@ -3,7 +3,7 @@
 - :satellite: :I’m currently working on :globe_with_meridians: GIS systems using satelite data and in-sight.
 - :radio: I'm amateur Ham Radio Operator.
 - :dancers: I’m looking to collaborate on Electronics project for amateur radio (Ham Radio).
-- :bookmark_tabs: In feature i want build own systems for checking algorithmic chalanges.
+- :bookmark_tabs: In feature I want build own systems for checking algorithmic chalanges.
 
 ### :page_facing_up: Languages and Tools:
 
