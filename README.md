@@ -14,6 +14,11 @@
 
 ### Lastest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [40220 – FR_AA_10 – Rysunek Mikołaja – www.pl.spoj.com](https://lazyspot.net/spoj/40220-fr_aa_10-rysunek-mikolaja-www-pl-spoj-com/)
+- [00019 – 499 – Czy umiesz potęgować – www.pl.spoj.com](https://lazyspot.net/spoj/00019-499-czy-umiesz-potegowac-www-pl-spoj-com/)
+- [00018 – 609 – Pole pewnego koła – www.pl.spoj.com](https://lazyspot.net/spoj/00018-609-pole-pewnego-kola-www-pl-spoj-com/)
+- [00017 – 1055 – Parzyste nieparzyste – www.pl.spoj.com](https://lazyspot.net/spoj/00017-1055-parzyste-nieparzyste-www-pl-spoj-com/)
+- [00016 – 626 – Obżartuchy – www.pl.spoj.com](https://lazyspot.net/spoj/00016-626-obzartuchy-www-pl-spoj-com/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Lastest YouTube Video
