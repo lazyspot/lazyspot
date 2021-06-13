@@ -1,6 +1,9 @@
 ### Hi there, I'm Marcin
 
-
+- 🔭 I’m currently working on GIS systems.
+- I'm amateur Ham Radio Operator.
+- 👯 I’m looking to collaborate on Electronics project for amateur radio (Ham Radio).
+- In feature i want build own systems for checking algorithmic chalanges.
 
 ### Languages and Tools:
 
@@ -21,6 +24,9 @@
 - [00016 – 626 – Obżartuchy – www.pl.spoj.com](https://lazyspot.net/spoj/00016-626-obzartuchy-www-pl-spoj-com/)
 <!-- BLOG-POST-LIST:END -->
 
+<br />
+<br />
+
 ### Lastest YouTube Video
 <!-- YOUTUBE:START -->
 - [How to build GDAL from source for Visual C++ in Visual Studio](https://www.youtube.com/watch?v=Yf8rYOfvZjY)
@@ -29,17 +35,7 @@
 - [Connect computer to server using GUI - Cisco Packet Tracer](https://www.youtube.com/watch?v=O8qsG1hL4tM)
 <!-- YOUTUBE:END -->
 
-<!--
-**lazyspot/lazyspot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
+<br />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about ... [https://lazyspot.net/kontakt/](https://lazyspot.net/kontakt/)
