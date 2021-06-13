@@ -9,13 +9,10 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="C" width="26px" src="/icons/C.png" />]
-[<img align="left" alt="C++" width="26px" src="/icons/C++.png" />]
-[<img align="left" alt="Python" width="26px" src="/icons/Python.png" />]
-[<img align="left" alt="SQL" width="26px" src="/icons/SQL.png" />]
-
-<br />
-<br />
+[<img align="left" alt="C" width="26px" src="/icons/C.png" />]()
+[<img align="left" alt="C++" width="26px" src="/icons/C++.png" />]()
+[<img align="left" alt="Python" width="26px" src="/icons/Python.png" />]()
+[<img align="left" alt="SQL" width="26px" src="/icons/SQL.png" />]()
 
 [![Website](https://img.shields.io/website?label=lazyspot.net&style=for-the-badge&url=https%3A%2F%2Flazyspot.net)](https://lazyspot.net/)
 
