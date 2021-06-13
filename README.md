@@ -1,18 +1,16 @@
 ### Hi there, I'm Marcin
 
-- 🔭 I’m currently working on GIS systems.
+- :satellite: :I’m currently working on :globe_with_meridians: GIS systems using satelite data and in-sight.
 - :radio: I'm amateur Ham Radio Operator.
-- 👯 I’m looking to collaborate on Electronics project for amateur radio (Ham Radio).
+- :dancers: I’m looking to collaborate on Electronics project for amateur radio (Ham Radio).
 - :bookmark_tabs: In feature i want build own systems for checking algorithmic chalanges.
 
+### :page_facing_up: Languages and Tools:
 
-
-### Languages and Tools:
-
-[<img align="left" alt="C" width="26px" src="/icons/C.png" />]()
-[<img align="left" alt="C++" width="26px" src="/icons/C++.png" />]()
-[<img align="left" alt="Python" width="26px" src="/icons/Python.png" />]()
-[<img align="left" alt="SQL" width="26px" src="/icons/SQL.png" />]()
+[<img align="left" alt="C" width="26px" src="/icons/C.png" />](https://lazyspot.net/tag/c/)
+[<img align="left" alt="C++" width="26px" src="/icons/C++.png" />](https://lazyspot.net/tag/c-2/)
+[<img align="left" alt="Python" width="26px" src="/icons/Python.png" />](https://lazyspot.net/tag/Python/)
+[<img align="left" alt="SQL" width="26px" src="/icons/SQL.png" />](https://lazyspot.net/tag/SQL/)
 
 <br />
 <br />
