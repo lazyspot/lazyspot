@@ -19,11 +19,11 @@
 
 ### :b: Lastest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [40220 – FR_AA_10 – Rysunek Mikołaja – www.pl.spoj.com](https://lazyspot.net/spoj/40220-fr_aa_10-rysunek-mikolaja-www-pl-spoj-com/)
-- [00019 – 499 – Czy umiesz potęgować – www.pl.spoj.com](https://lazyspot.net/spoj/00019-499-czy-umiesz-potegowac-www-pl-spoj-com/)
-- [00018 – 609 – Pole pewnego koła – www.pl.spoj.com](https://lazyspot.net/spoj/00018-609-pole-pewnego-kola-www-pl-spoj-com/)
-- [00017 – 1055 – Parzyste nieparzyste – www.pl.spoj.com](https://lazyspot.net/spoj/00017-1055-parzyste-nieparzyste-www-pl-spoj-com/)
-- [00016 – 626 – Obżartuchy – www.pl.spoj.com](https://lazyspot.net/spoj/00016-626-obzartuchy-www-pl-spoj-com/)
+- [Dlaczego powstał model sprzedaży oprogramowania typu SaaS?](https://lazyspot.net/artykuly/dlaczego-powstal-model-sprzedazy-oprogramowania-typu-saas/)
+- [Wady i zagrożenia aplikacji w modelu SaaS (Software as a Service)](https://lazyspot.net/artykuly/wady-i-zagrozenia-aplikacji-w-modelu-saas-software-as-a-service/)
+- [How to build GDAL from source for Visual C++ in Visual Studio 2015](https://lazyspot.net/guides/how-to-build-gdal-from-source-for-visual-c-in-visual-studio-2015/)
+- [Uruchomienie zasilacza macierzy dyskowej HP/Compaq MSA500/MSA1000](https://lazyspot.net/poradniki/uruchomienie-zasilacza-macierzy-dyskowej-hp-compaq-msa500-msa1000/)
+- [[C++] Biblioteka tmenu – przewijane menu w konsoli](https://lazyspot.net/programowanie/c-plus-plus-biblioteka-tmenu-przewijane-menu-w-konsoli/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Lastest YouTube Video
