@@ -19,11 +19,11 @@
 
 ### :b: Lastest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Tablice rzadkie – minimalne zapytanie o zakres](https://lazyspot.net/algorithms/tablice-rzadkie-minimalne-zapytanie-o-zakres/)
 - [Dlaczego powstał model sprzedaży oprogramowania typu SaaS?](https://lazyspot.net/artykuly/dlaczego-powstal-model-sprzedazy-oprogramowania-typu-saas/)
 - [Wady i zagrożenia aplikacji w modelu SaaS (Software as a Service)](https://lazyspot.net/artykuly/wady-i-zagrozenia-aplikacji-w-modelu-saas-software-as-a-service/)
 - [How to build GDAL from source for Visual C++ in Visual Studio 2015](https://lazyspot.net/guides/how-to-build-gdal-from-source-for-visual-c-in-visual-studio-2015/)
 - [Uruchomienie zasilacza macierzy dyskowej HP/Compaq MSA500/MSA1000](https://lazyspot.net/poradniki/uruchomienie-zasilacza-macierzy-dyskowej-hp-compaq-msa500-msa1000/)
-- [[C++] Biblioteka tmenu – przewijane menu w konsoli](https://lazyspot.net/programowanie/c-plus-plus-biblioteka-tmenu-przewijane-menu-w-konsoli/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Lastest YouTube Video
