@@ -19,8 +19,8 @@
 
 ### :b: Lastest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Tablice rzadkie – najniższy wspólny przodek](https://lazyspot.net/algorithms/tablice-rzadkie-najnizszy-wspolny-przodek/)
-- [Tablice rzadkie – zapytanie o minimalną wartość w zakresie](https://lazyspot.net/algorithms/tablice-rzadkie-zapytanie-o-minimalna-wartosc-w-zakresie/)
+- [Najniższy wspólny przodek](https://lazyspot.net/algorithms/najnizszy-wspolny-przodek/)
+- [Zapytanie o minimalną wartość w zakresie](https://lazyspot.net/algorithms/zapytanie-o-minimalna-wartosc-w-zakresie/)
 - [Dlaczego powstał model sprzedaży oprogramowania typu SaaS?](https://lazyspot.net/artykuly/dlaczego-powstal-model-sprzedazy-oprogramowania-typu-saas/)
 - [Wady i zagrożenia aplikacji w modelu SaaS (Software as a Service)](https://lazyspot.net/artykuly/wady-i-zagrozenia-aplikacji-w-modelu-saas-software-as-a-service/)
 - [How to build GDAL from source for Visual C++ in Visual Studio 2015](https://lazyspot.net/guides/how-to-build-gdal-from-source-for-visual-c-in-visual-studio-2015/)
