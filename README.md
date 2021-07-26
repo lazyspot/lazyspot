@@ -19,11 +19,11 @@
 
 ### :b: Lastest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [ESA SNAP – Infinity loop while downloading SRTM files](https://lazyspot.net/gis/esa-snap-infinity-loop-while-downloading-srtm-files/)
 - [Najniższy wspólny przodek](https://lazyspot.net/algorithms/najnizszy-wspolny-przodek/)
 - [Zapytanie o minimalną wartość w zakresie](https://lazyspot.net/algorithms/zapytanie-o-minimalna-wartosc-w-zakresie/)
 - [Dlaczego powstał model sprzedaży oprogramowania typu SaaS?](https://lazyspot.net/artykuly/dlaczego-powstal-model-sprzedazy-oprogramowania-typu-saas/)
 - [Wady i zagrożenia aplikacji w modelu SaaS (Software as a Service)](https://lazyspot.net/artykuly/wady-i-zagrozenia-aplikacji-w-modelu-saas-software-as-a-service/)
-- [How to build GDAL from source for Visual C++ in Visual Studio 2015](https://lazyspot.net/guides/how-to-build-gdal-from-source-for-visual-c-in-visual-studio-2015/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Lastest YouTube Video
