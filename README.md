@@ -23,7 +23,7 @@
 - [Najniższy wspólny przodek](https://lazyspot.net/algorithms/najnizszy-wspolny-przodek/)
 - [Zapytanie o minimalną wartość w zakresie](https://lazyspot.net/algorithms/zapytanie-o-minimalna-wartosc-w-zakresie/)
 - [Dlaczego powstał model sprzedaży oprogramowania typu SaaS?](https://lazyspot.net/artykuly/dlaczego-powstal-model-sprzedazy-oprogramowania-typu-saas/)
-- [Wady i zagrożenia aplikacji w modelu SaaS (Software as a Service)](https://lazyspot.net/artykuly/wady-i-zagrozenia-aplikacji-w-modelu-saas-software-as-a-service/)
+- [Wady i zagrożenia aplikacji w modelu SaaS &lpar;Software as a Service&rpar;](https://lazyspot.net/artykuly/wady-i-zagrozenia-aplikacji-w-modelu-saas-software-as-a-service/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Lastest YouTube Video
