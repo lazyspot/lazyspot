@@ -19,7 +19,7 @@
 
 ### :b: Lastest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Data ważności wiedzy w IT](https://lazyspot.net/felietony/1071/)
+- [Data ważności wiedzy w IT](https://lazyspot.net/felietony/data-waznosci-wiedzy-w-it/)
 - [ESA SNAP – Infinity loop while downloading SRTM files](https://lazyspot.net/gis/esa-snap-infinity-loop-while-downloading-srtm-files/)
 - [Najniższy wspólny przodek](https://lazyspot.net/algorithms/najnizszy-wspolny-przodek/)
 - [Zapytanie o minimalną wartość w zakresie](https://lazyspot.net/algorithms/zapytanie-o-minimalna-wartosc-w-zakresie/)
