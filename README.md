@@ -19,11 +19,11 @@
 
 ### :b: Lastest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Zaczęło się od dev skończy się na dev – o podziale roli w IT](https://lazyspot.net/felietony/zaczelo-sie-od-dev-skonczy-sie-na-dev-o-podziale-roli-w-it/)
 - [Data ważności wiedzy w IT](https://lazyspot.net/felietony/data-waznosci-wiedzy-w-it/)
 - [ESA SNAP – Infinity loop while downloading SRTM files](https://lazyspot.net/gis/esa-snap-infinity-loop-while-downloading-srtm-files/)
 - [Najniższy wspólny przodek](https://lazyspot.net/algorithms/najnizszy-wspolny-przodek/)
 - [Zapytanie o minimalną wartość w zakresie](https://lazyspot.net/algorithms/zapytanie-o-minimalna-wartosc-w-zakresie/)
-- [Dlaczego powstał model sprzedaży oprogramowania typu SaaS?](https://lazyspot.net/artykuly/dlaczego-powstal-model-sprzedazy-oprogramowania-typu-saas/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Lastest YouTube Video
